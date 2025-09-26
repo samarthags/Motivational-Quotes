@@ -30,8 +30,8 @@ This project displays **10,000+ quotes**, generating a new one each time you cli
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/samarthags/Quotes-Generator.git
-   cd Quotes-Generator
+   git clone https://github.com/samarthags/Random-Quotes-Generator.git
+   cd Random-Quotes-Generator
 
 2. Open the project Just open the index.html file in your browser:
 
